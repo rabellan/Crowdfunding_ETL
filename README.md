@@ -9,7 +9,7 @@ UC Berkeley Extension Data Analysis Project 2 ETL Challenge
 
 2. [contacts.xslx](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/contacts.xlsx) - Excel spreadsheet source for the contacts DataFrame exercise
 
-#### CSV files from the "Create the Category and Subcategory DataFrames" portion of the Crowdfunding ETL project 
+#### CSV results files from the DataFrames exercises of the Crowdfunding ETL project 
 
 1. [category.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/subcategory.csv) - Exported categories_df as CSV file
 
