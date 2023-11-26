@@ -12,7 +12,9 @@ After transforming the data, four CSV files will be created, this will be the ba
 
 2. [Campaign ERD Diagram](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/campaign_ERD.png)
 
-3. 
+3. [crowdfunding_db_schema.sql](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/crowdfunding_db_schema.sql) - the SQL schema that built 'crowdfunding_db' in Postgres DB
+
+4. [crowdfunding_db.sql](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/crowdfunding_db.sql) - the SQL used to verify the successful importation of CSV files into the proper tables in `crowdfunding_db`
 
 ### Resources folder
 
