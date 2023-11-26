@@ -1,14 +1,15 @@
 # Crowdfunding_ETL
 UC Berkeley Extension Data Analysis Project 2 ETL Challenge
 
-This ETL mini project is a practice in building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. 
+This ETL mini project challenge includes building an ETL pipeline using `Python`, `Pandas`, and either Python dictionary methods or regular expressions to extract and transform the data. 
 
-After transforming the data, four CSV files will be created. From the said CSV files data, an ERD and a table schema were created to illustrate the table relationship. To finish the ETL project, the data from the derived CSV files will be imported into a Postgres database.
+After transforming the data, four CSV files will be created, this will be the basis of the project's `Postgres` database. From the said CSV files data, an ERD and a table schema were created to illustrate the table relationship. To finish the ETL project, the data from the derived CSV files will be imported into a Postgres database.
+
 ### List of deliverables
 
 1. [ETL Mini Project Jupyter Notebook](https://github.com/rabellan/Crowdfunding_ETL/blob/main/ETL_Mini_Project_RAbellano.ipynb)
 
-2. [ERD Diagram](https://github.com/rabellan/Crowdfunding_ETL)
+2. [Campaign ERD Diagram](https://github.com/rabellan/Crowdfunding_ETL)
 
 3. 
 
