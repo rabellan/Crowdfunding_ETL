@@ -8,7 +8,7 @@ After transforming the data, four CSV files will be created, this will be the ba
 
 ### List of deliverables
 
-1. [ETL Mini Project Jupyter Notebook](https://github.com/rabellan/Crowdfunding_ETL/blob/main/ETL_Mini_Project_RAbellano.ipynb)
+1. [ETL Mini Project Jupyter Notebook](https://github.com/rabellan/Crowdfunding_ETL/blob/main/ETL_Mini_Project_RAbellano.ipynb) - Jupyter Notebook for creating the `category`, `subcategory`, `campaign`, and `contacts` DataFrames.
 
 2. [Campaign ERD Diagram](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/campaign_ERD.png)
 
