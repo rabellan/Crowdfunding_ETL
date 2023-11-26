@@ -34,6 +34,6 @@ After transforming the data, four CSV files will be created, this will be the ba
 
 ---
 
-### ERD Diagram
+### Entity Relationship Diagram
 
 ![ERD Diagram - Crowdfunding](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/campaign_ERD.png)
