@@ -5,6 +5,17 @@ This ETL mini project challenge includes building an ETL pipeline using `Python`
 
 After transforming the data, four CSV files will be created, this will be the basis of the project's `Postgres` database. From the said CSV files data, an ERD and a table schema were created to illustrate the table relationship. To finish the ETL project, the data from the derived CSV files will be imported into a Postgres database.
 
+### Summary
+
+Using Python, Pandas, Jupyter Notebook, and a PostgreSQL database:
+
+- Extracted and transformed data from an Excel spreadsheet into smaller CSV files
+
+- Created a PostgreSQL database and tables by using an ERD
+
+- Loaded CSV files into a database
+
+- Ran queries to retrieve data and generate reports for stakeholders
 
 ### List of deliverables
 
