@@ -37,13 +37,13 @@ Using Python, Pandas, Jupyter Notebook, and a PostgreSQL database:
 
 #### CSV results files from the DataFrames exercises of the Crowdfunding ETL project 
 
-1. [category.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/category.csv) - Exported categories_df as CSV file. A screenshot of the successful SQL query of the category table can be found [here]
+1. [category.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/category.csv) - Exported categories_df as CSV file. A screenshot of the successful SQL query of the category table can be found [here](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/Images/category_sql.png)
 
-2. [subcategory.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/subcategory.csv) - Exported subcategories_df as CSV file. A screenshot of the successful SQL query of the subcategory table can be found here
+2. [subcategory.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/subcategory.csv) - Exported subcategories_df as CSV file. A screenshot of the successful SQL query of the subcategory table can be found [here](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/Images/subcategory_sql.png)
 
-3. [contacts.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/contacts.csv) - Exported 'contacts.csv' from the 'Create Contacts DataFrame" exercise. A screenshot of the successful SQL query of the contacts table can be found here
+3. [contacts.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/contacts.csv) - Exported 'contacts.csv' from the 'Create Contacts DataFrame" exercise. A screenshot of the successful SQL query of the contacts table can be found [here](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/Images/contacts_sql.png)
 
-4. [campaign.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/campaign.csv) - Exported 'campaign.csv' from the exported campaign DataFrame. A screenshot of the successful SQL query of the campaign table can be found here
+4. [campaign.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/campaign.csv) - Exported 'campaign.csv' from the exported campaign DataFrame. A screenshot of the successful SQL query of the campaign table can be found [here](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/Images/campaign_sql.png)
 
 Here is the screenshot of the successful importation of the results CSV files:
 
