@@ -45,6 +45,10 @@ Using Python, Pandas, Jupyter Notebook, and a PostgreSQL database:
 
 4. [campaign.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/campaign.csv) - Exported 'campaign.csv' from the exported campaign DataFrame 
 
+Here is the screenshot of the successful importation of the results CSV files:
+
+![Postgres Import]()
+
 ---
 
 ### Entity Relationship Diagram
