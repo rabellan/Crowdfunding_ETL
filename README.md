@@ -23,34 +23,34 @@ Using Python, Pandas, Jupyter Notebook, and a PostgreSQL database:
 
 2. [Campaign ERD Diagram](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/campaign_ERD.png)
 
-3. [crowdfunding_db_schema.sql](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/crowdfunding_db_schema.sql) - the SQL schema that built 'crowdfunding_db' in Postgres DB
+3. [crowdfunding_db_schema.sql](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/SQL/crowdfunding_db_schema.sql) - the SQL schema that built 'crowdfunding_db' in Postgres DB
 
-4. [crowdfunding_db.sql](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/crowdfunding_db.sql) - the SQL used to verify the successful importation of CSV files into the proper tables in `crowdfunding_db`
+4. [crowdfunding_db.sql](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/SQL/crowdfunding_db.sql) - the SQL used to verify the successful importation of CSV files into the proper tables in `crowdfunding_db`
 
 ### Resources folder
 
 #### Excel files from the project "starter kit"
 
-1. [crowdfunding.xlsx](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/crowdfunding.xlsx) - Excel spreadsheet source of the crowdfunding DataFrame exercise
+1. [crowdfunding.xlsx](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/RAW/crowdfunding.xlsx) - Excel spreadsheet source of the crowdfunding DataFrame exercise
 
-2. [contacts.xslx](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/contacts.xlsx) - Excel spreadsheet source for the contacts DataFrame exercise
+2. [contacts.xslx](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/RAW/contacts.xlsx) - Excel spreadsheet source for the contacts DataFrame exercise
 
 #### CSV results files from the DataFrames exercises of the Crowdfunding ETL project 
 
-1. [category.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/subcategory.csv) - Exported categories_df as CSV file
+1. [category.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/category.csv) - Exported categories_df as CSV file
 
-2. [subcategory.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/subcategory.csv) - Exported subcategories_df as CSV file
+2. [subcategory.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/subcategory.csv) - Exported subcategories_df as CSV file
 
-3. [contacts.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/contacts.csv) - Exported 'contacts.csv' from the 'Create Contacts DataFrame" exercise
+3. [contacts.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/contacts.csv) - Exported 'contacts.csv' from the 'Create Contacts DataFrame" exercise
 
-4. [campaign.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/campaign.csv) - Exported 'campaign.csv' from the exported campaign DataFrame 
+4. [campaign.csv](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/CSV/campaign.csv) - Exported 'campaign.csv' from the exported campaign DataFrame 
 
 Here is the screenshot of the successful importation of the results CSV files:
 
-![Postgres Import]()
+![Postgres Import](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/Images/CSV_Import.png)
 
 ---
 
 ### Entity Relationship Diagram
 
-![ERD Diagram - Crowdfunding](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/campaign_ERD.png)
+![ERD Diagram - Crowdfunding](https://github.com/rabellan/Crowdfunding_ETL/blob/main/Resources/Images/campaign_ERD.png)
